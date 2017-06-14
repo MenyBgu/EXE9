@@ -1,0 +1,14 @@
+﻿  main.cpp
+c:\users\meny buganim\documents\visual studio 2015\projects\exe9first\exe9first\main.cpp(15): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\meny buganim\documents\visual studio 2015\projects\exe9first\exe9first\main.cpp(18): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\meny buganim\documents\visual studio 2015\projects\exe9first\exe9first\main.cpp(21): warning C4305: 'argument': truncation from 'double' to 'float'
+  Zoo.cpp
+  Bat.cpp
+  Generating Code...
+  Compiling...
+  Tiger.cpp
+  Giraffe.cpp
+  Animal.cpp
+  Generating Code...
+  Exe9first.vcxproj -> C:\Users\Meny Buganim\Documents\Visual Studio 2015\Projects\Exe9first\Debug\Exe9first.exe
+  Exe9first.vcxproj -> C:\Users\Meny Buganim\Documents\Visual Studio 2015\Projects\Exe9first\Debug\Exe9first.pdb (Partial PDB)
